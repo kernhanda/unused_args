@@ -1,5 +1,4 @@
 # unused_args
-===
 
 A small header only library to suppress unused variable and parameter warnings in a cross-platform manner without the use of macros.
 
